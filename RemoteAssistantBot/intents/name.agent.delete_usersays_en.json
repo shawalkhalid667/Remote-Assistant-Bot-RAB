@@ -1,0 +1,310 @@
+[
+  {
+    "id": "b6ff3312-5d75-4d9d-8a41-23f2fecde6bd",
+    "data": [
+      {
+        "text": "forget that your ",
+        "userDefined": false
+      },
+      {
+        "text": "middle name",
+        "meta": "@name-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "Nick",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7c011de-6820-41b3-92cd-4714956dbea9",
+    "data": [
+      {
+        "text": "you are not ",
+        "userDefined": false
+      },
+      {
+        "text": "Sam",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": true
+      },
+      {
+        "text": " anymore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93d46fe4-d261-43e2-99e8-398e90c4668a",
+    "data": [
+      {
+        "text": "can you forget your ",
+        "userDefined": false
+      },
+      {
+        "text": "last name",
+        "meta": "@name-type",
+        "alias": "type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aed1a960-f949-4b85-9a8f-ddc6c8b56202",
+    "data": [
+      {
+        "text": "forget that your ",
+        "userDefined": false
+      },
+      {
+        "text": "last name",
+        "meta": "@name-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "Green",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "567032a3-1cf4-440e-8ef2-43f217732493",
+    "data": [
+      {
+        "text": "can you forget your name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5fb4c270-1492-417a-a909-1607bca34ddc",
+    "data": [
+      {
+        "text": "your ",
+        "userDefined": false
+      },
+      {
+        "text": "surname",
+        "meta": "@name-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": " is not ",
+        "userDefined": false
+      },
+      {
+        "text": "Smith",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "919512da-9f63-4839-abc0-6bdfdbf5f853",
+    "data": [
+      {
+        "text": "forget that you were ",
+        "userDefined": false
+      },
+      {
+        "text": "Anna",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9eec650-1129-4679-bd76-02a4d37a850e",
+    "data": [
+      {
+        "text": "remove your ",
+        "userDefined": false
+      },
+      {
+        "text": "nickname",
+        "meta": "@name-type",
+        "alias": "type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4998bf4c-e3ac-4445-b314-a09e17604171",
+    "data": [
+      {
+        "text": "your ",
+        "userDefined": false
+      },
+      {
+        "text": "nickname",
+        "meta": "@name-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": " is not ",
+        "userDefined": false
+      },
+      {
+        "text": "Woo Woo",
+        "meta": "@nick-name",
+        "alias": "nick-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31c698d4-2531-45f8-bd57-7bbad85ad3b7",
+    "data": [
+      {
+        "text": "get rid of your ",
+        "userDefined": false
+      },
+      {
+        "text": "last name",
+        "meta": "@name-type",
+        "alias": "type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b68f26e1-dea6-493a-a667-bcd7b2dddf78",
+    "data": [
+      {
+        "text": "delete your name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dacfb431-9c55-484e-a59b-422a527a6496",
+    "data": [
+      {
+        "text": "forget that your name is ",
+        "userDefined": false
+      },
+      {
+        "text": "John",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0202e712-860c-44c1-b764-c55d50a49fb8",
+    "data": [
+      {
+        "text": "forget your ",
+        "userDefined": false
+      },
+      {
+        "text": "last name",
+        "meta": "@name-type",
+        "alias": "type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc5545fa-c927-4914-a044-271379971e88",
+    "data": [
+      {
+        "text": "your ",
+        "userDefined": false
+      },
+      {
+        "text": "first name",
+        "meta": "@name-type",
+        "alias": "type",
+        "userDefined": true
+      },
+      {
+        "text": " is not ",
+        "userDefined": false
+      },
+      {
+        "text": "Sarah",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,78 @@
+{
+  "id": "a15223a5-c561-4544-b40d-0e990859a37a",
+  "parentId": "3c8b56f8-98d8-4a1c-8dce-6e53139f5328",
+  "rootParentId": "a1aa7222-1ada-4936-b00b-50daddaad324",
+  "name": "bot.order - yes - beginner",
+  "auto": true,
+  "contexts": [
+    "botorder-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bot.order.beginner",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Congratulations on joining our bot\u0027s party!",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "title": "",
+          "buttons": [
+            {
+              "openUrlAction": {
+                "url": "https://docs.api.ai/docs/get-started",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              },
+              "title": "Get started"
+            }
+          ],
+          "textToSpeech": "",
+          "formattedText": "Here is how you start.",
+          "image": {},
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Congratulations on joining our bot\u0027s party! Here is how you start: https://docs.api.ai/docs/get-started"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

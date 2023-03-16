@@ -1,0 +1,76 @@
+{
+  "id": "90cbb767-a84b-4349-ad89-cfed35c8a69b",
+  "parentId": "3c8b56f8-98d8-4a1c-8dce-6e53139f5328",
+  "rootParentId": "a1aa7222-1ada-4936-b00b-50daddaad324",
+  "name": "bot.order - yes - advanced",
+  "auto": true,
+  "contexts": [
+    "botorder-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bot.order.advanced",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "How can I possibly help such a professional?",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "title": "",
+          "buttons": [
+            {
+              "openUrlAction": {
+                "url": "https://docs.api.ai/docs/training",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              },
+              "title": "Training"
+            }
+          ],
+          "textToSpeech": "",
+          "formattedText": "Let\u0027s have a look at our Training Feature to make your future bot even smarter.",
+          "image": {},
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Wow! Cool to see a real pro. I hope, you\u0027ll find our ML section interesting: https://dialogflow.com/docs/machine-learning",
+            "How can I possibly help such a professional? Let\u0027s have a look at our Training Feature to make your future bot even smarter: https://dialogflow.com/docs/training"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

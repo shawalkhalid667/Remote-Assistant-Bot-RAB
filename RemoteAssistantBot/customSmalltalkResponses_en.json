@@ -1,0 +1,83 @@
+[
+  {
+    "action": "smalltalk.appraisal.bad",
+    "customAnswers": [
+      "I am sorry about that."
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.good",
+    "customAnswers": [
+      "Thanks."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.bye",
+    "customAnswers": [
+      "Bye. See you again soon.",
+      "Bye. Nice talking to you."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodevening",
+    "customAnswers": [
+      "How can I help you?"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodmorning",
+    "customAnswers": [
+      "Good Morning, How are you doing today?",
+      "Good Morning, How can I help you today?"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodnight",
+    "customAnswers": [
+      "Sleep well."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.hello",
+    "customAnswers": [
+      "Hi",
+      "How can I help you?"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.how_are_you",
+    "customAnswers": [
+      "I am doing great."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_meet_you",
+    "customAnswers": [
+      "Nice to meet you too!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_see_you",
+    "customAnswers": [
+      "Nice to see you too."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_talk_to_you",
+    "customAnswers": [
+      "Nice to talk to you too. See you soon."
+    ]
+  },
+  {
+    "action": "smalltalk.user.going_to_bed",
+    "customAnswers": [
+      "Bye."
+    ]
+  },
+  {
+    "action": "smalltalk.user.happy",
+    "customAnswers": [
+      "That\u0027s awesome."
+    ]
+  }
+]

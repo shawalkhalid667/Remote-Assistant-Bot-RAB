@@ -1,0 +1,90 @@
+{
+  "id": "b3521464-edfb-40ab-9f13-d53bd38fac7a",
+  "parentId": "3c8b56f8-98d8-4a1c-8dce-6e53139f5328",
+  "rootParentId": "a1aa7222-1ada-4936-b00b-50daddaad324",
+  "name": "bot.order - yes - intermediate",
+  "auto": true,
+  "contexts": [
+    "botorder-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bot.order.intermediate",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "Cool. Keep developing your bots with us!",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "carousel_card",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "Samples show basic concepts.",
+              "image": {},
+              "optionInfo": {
+                "key": "https://docs.api.ai/page/guidelines",
+                "synonyms": []
+              },
+              "title": "Check out some of our samples",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            },
+            {
+              "description": "List of all available Prebuilt Agents.",
+              "image": {},
+              "optionInfo": {
+                "key": "https://docs.api.ai/docs/prebuilt-agents",
+                "synonyms": []
+              },
+              "title": "And some of the Prebuilt Agents",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Cool. Keep developing your bots with us! Have a look at our guidelines here: https://docs.api.ai/docs/profile-bot-example-agent. Maybe you\u0027ll find some useful examples in our Prebuilt Agents, have a look here: https://docs.api.ai/docs/prebuilt-agents"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

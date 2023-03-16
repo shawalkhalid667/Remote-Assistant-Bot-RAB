@@ -1,0 +1,52 @@
+{
+  "id": "9860f603-49d3-49d4-8eb9-d2c3824da955",
+  "name": "name.agent.get",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "name.agent.get",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d6e4ba51-b4bc-45e8-801e-55f814fa1a4f",
+          "name": "type",
+          "required": false,
+          "dataType": "@name-type",
+          "value": "$type",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "My name is Remote Assistant Bot. You can call me RAB.",
+            "My name is Remote Assistant Bot.",
+            "You can call me RAB"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

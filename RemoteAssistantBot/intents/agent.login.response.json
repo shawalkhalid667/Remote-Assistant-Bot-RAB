@@ -1,0 +1,36 @@
+{
+  "id": "93001355-be07-4f02-9b18-8c9ff1a14087",
+  "name": "agent.login.response",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You can login into the server by entering your username and the password provided by your manager.",
+            "You can refer to this link for the steps to login to the server.\nhttps://en.wikipedia.org/wiki/Main_Page/login"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

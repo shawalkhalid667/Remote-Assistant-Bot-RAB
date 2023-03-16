@@ -1,0 +1,50 @@
+{
+  "id": "f2b51064-3f3f-4eb8-8dbe-73b5ad6c6f58",
+  "name": "name.agent.spelling",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "name.agent.spelling",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "68566543-e26f-4f41-8b6f-ff5458baadb7",
+          "name": "name-type",
+          "required": false,
+          "dataType": "@name-type",
+          "value": "$name-type",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "My name is RAB, R as in Rick, A as in Apple, B as in Book"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

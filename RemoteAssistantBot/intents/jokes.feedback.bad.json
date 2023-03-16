@@ -1,0 +1,57 @@
+{
+  "id": "dfb72d19-3a9b-43d5-b0f9-d2f65b4864d2",
+  "parentId": "9beeed01-e0b5-4dd3-8aeb-fe235426384e",
+  "rootParentId": "9beeed01-e0b5-4dd3-8aeb-fe235426384e",
+  "name": "jokes.feedback.bad",
+  "auto": true,
+  "contexts": [
+    "jokesget-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "jokes.feedback.bad",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "More Jokes"
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The next one will be funnier, I promise. Just ask!",
+            "Yikes, tough crowd. I\u0027ll try another, just say that you are ready.",
+            "Well I thought it was funny. Give me another chance!"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

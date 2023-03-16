@@ -1,0 +1,93 @@
+[
+  {
+    "id": "8ca73e63-346f-4da4-bab6-7c3e50eaaeac",
+    "data": [
+      {
+        "text": "how can I access the wiki page",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8f39d4a-1962-4330-994f-f4d3318e5fe8",
+    "data": [
+      {
+        "text": "wiki page gives access denied error",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c1dc77f-a58d-4979-a679-d5a135f51c69",
+    "data": [
+      {
+        "text": "Wiki page does not open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8723560b-e5e4-43d3-bacf-31927074b2c3",
+    "data": [
+      {
+        "text": "How can I get permission for the wiki page",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34f231a5-532c-4a1d-91bd-4b5ea1b2f469",
+    "data": [
+      {
+        "text": "I am not able to open the wiki page",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66970b87-73d5-462a-9c13-3773f0fb86dd",
+    "data": [
+      {
+        "text": "Cannot open the wiki page",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5a6f015-89db-4fbf-b4fc-99ad2b3ff47b",
+    "data": [
+      {
+        "text": "How can I get access to the wiki page?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

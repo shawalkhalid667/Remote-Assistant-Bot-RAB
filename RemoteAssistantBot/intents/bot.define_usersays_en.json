@@ -1,0 +1,114 @@
+[
+  {
+    "id": "164b9637-7b62-488d-b3a5-d9a1f107276d",
+    "data": [
+      {
+        "text": "what is a assistant app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62ad29d4-ed10-4d3d-a00c-84f5d436cdaa",
+    "data": [
+      {
+        "text": "who are ",
+        "userDefined": false
+      },
+      {
+        "text": "bots",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5035846b-27b3-4e6b-9704-2d0f8fd0b429",
+    "data": [
+      {
+        "text": "do you know anything about conversation apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5bcd5a18-a42c-4047-a38f-847041307761",
+    "data": [
+      {
+        "text": "what are virtual assistants",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68eeaf18-8ca2-4801-a871-36d8f2bc1f12",
+    "data": [
+      {
+        "text": "what is a chatbot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5f004bb-f01c-4782-82a1-a087c21ea6e2",
+    "data": [
+      {
+        "text": "tell me about virtual ",
+        "userDefined": false
+      },
+      {
+        "text": "assistants",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c9e74a0-8bc9-4ecb-8bbc-489b52b27ed0",
+    "data": [
+      {
+        "text": "what are chatbots designed for",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d85bdfd-0e08-4d8b-b207-0cd458b6fb9d",
+    "data": [
+      {
+        "text": "how does a bot work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

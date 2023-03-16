@@ -1,0 +1,47 @@
+<!-- <!DOCTYPE html>
+<html>
+<head>
+<title>Test App</title>
+</head>
+<body>
+{% for key, value in questions.items() %}
+{{ key }} : {{ value }}
+{% endfor %}
+<h1>hello</h1>
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Techbot</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+
+<div class="container">
+<h2>Unanswered Questions</h2>
+{% for id, question in questions.items() %}
+    <form action="/qna" method="post">
+        <div class="form-group">
+        <!-- <label for="id">Id:</label> -->
+        <input type="hidden" class="form-control" id="id" value="{{ id }}" name="id">
+        <input type="hidden" class="form-control" id="question" value="{{ question }}" name="question">
+        </div>
+        <div class="form-group">
+            <label for="answer">{{ question }}</label>
+            <input type="text" class="form-control" id="answer" placeholder="Enter answer" name="answer" >
+        </div>
+        <button type="submit" value="submit" class="btn btn-default">Submit</button>
+    </form>
+    <br>
+{% endfor %}
+</div>
+
+</body>
+</html>
