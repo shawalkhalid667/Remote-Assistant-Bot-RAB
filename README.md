@@ -1,6 +1,6 @@
 # Remote Assistant Bot (RAB)
 ##### _CS5704 - Software Engineering Project_
-###### _Created By: [Pratik Nalage](https://github.com/PratikNalage), [Sumukh Bapat](https://github.com/sumukh23), [Shawal Khalid](https://github.com/shawalkhalid667), [Shunyu Yao](https://github.com/DavidYao1518)_
+###### _Created By: [Shawal Khalid](https://github.com/shawalkhalid667), [Pratik Nalage](https://github.com/PratikNalage), [Sumukh Bapat](https://github.com/sumukh23), [Shunyu Yao](https://github.com/DavidYao1518)_
 
 ## Project Description
 
